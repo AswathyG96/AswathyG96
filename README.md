@@ -1,4 +1,4 @@
-### Hi 👋, I'm Aswathy Gopi K
+### Hi 👋, I'm Aswathy Gopi 
 
 <!--
 **AswathyG96/AswathyG96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
