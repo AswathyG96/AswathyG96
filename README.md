@@ -1,9 +1,5 @@
 ### Hi 👋, I'm Aswathy Gopi 
------------------------------------------------------
-<!--
-**AswathyG96/AswathyG96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<>
 
 - 🔭 I’m currently working on FULL STACK DEVELOPMENT
 - 🌱 I’m currently learning REACT
@@ -13,4 +9,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- </>
+<!--
+**AswathyG96/AswathyG96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 -->
